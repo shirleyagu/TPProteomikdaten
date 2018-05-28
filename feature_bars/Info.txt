@@ -1,0 +1,2 @@
+Gestartete Implementierung der Bars, zur Anzeige von Werten.
+Leider nicht funktionsfähig.
