@@ -1,0 +1,2 @@
+Neu erstellte Tabelle, alte Tabelle verworfen 
+Bei Doppelklick auf eine Zelle ist eine Checkbox vorhanden
